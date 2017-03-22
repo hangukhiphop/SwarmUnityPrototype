@@ -1,0 +1,7 @@
+[Name]Drone Strike
+[Base Damage]50
+[Cooldown]7
+[Spawn]Drone
+[Control]Skill Shot
+[Range]10
+	

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4ba3586eaaf35a44bad76372b8f0e190
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SkillShotAim: {fileID: 100000, guid: 52f31935f5a8e2e4b90a399acce23d95, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

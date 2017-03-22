@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: feb1202647246d943b0a852dd80d6d59
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xbox_lstick
+    21300002: xbox_xbtn
+    21300004: xbox_abtn
+    21300006: xbox_rbump
+    21300008: xbox_lbump
+    21300010: xbox_ltrig
+    21300012: xbox_rtrig
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: xbox_lstick
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 644
+        width: 263
+        height: 302
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox_xbtn
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 655
+        width: 232
+        height: 266
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox_abtn
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 656
+        width: 232
+        height: 266
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox_rbump
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 393
+        width: 375
+        height: 189
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox_lbump
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 393
+        width: 375
+        height: 189
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox_ltrig
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 74
+        width: 242
+        height: 263
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox_rtrig
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 74
+        width: 242
+        height: 263
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

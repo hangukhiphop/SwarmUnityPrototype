@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 57eec1371f073ab449f1e666237ce453
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: creep_rig_reference01:WorkerGeo:polySurface1
+    100002: CTRL_Chest
+    100004: CTRL_COG
+    100006: CTRL_Face
+    100008: CTRL_Foot_L
+    100010: CTRL_Foot_R
+    100012: CTRL_MASTER
+    100014: CTRL_Shoulder_L
+    100016: CTRL_Shoulder_R
+    100018: CTRL_Sword
+    100020: CTRL_Tail
+    100022: CTRL_Tail1
+    100024: CTRL_Wrist_L
+    100026: CTRL_Wrist_R
+    100028: ik_Arm_R
+    100030: ik_Chest
+    100032: ik_Foot_L
+    100034: ik_Foot_R
+    100036: ik_Plume
+    100038: ikH_Arm_L
+    100040: pv_Elbow_L
+    100042: pv_Elbow_R
+    100044: pv_Knee_L
+    100046: pv_Knee_R
+    100048: Sk_Ankle_L
+    100050: Sk_Ankle_R
+    100052: Sk_Chest
+    100054: Sk_COG
+    100056: Sk_Collarbone_L
+    100058: Sk_Collarbone_R
+    100060: Sk_Elbow_L
+    100062: Sk_Elbow_R
+    100064: Sk_Fingertip_L
+    100066: Sk_Fingertip_R
+    100068: Sk_Hip_L
+    100070: Sk_Hip_R
+    100072: Sk_Knee_L
+    100074: Sk_Knee_R
+    100076: Sk_Neck
+    100078: Sk_Plume_1
+    100080: Sk_Plume_2
+    100082: Sk_Plume_3
+    100084: Sk_Plume_4
+    100086: Sk_Plume_Tip
+    100088: Sk_Shoulder_L
+    100090: Sk_Shoulder_R
+    100092: SK_Shoulderpad_L
+    100094: SK_Shoulderpad_R
+    100096: Sk_Spine
+    100098: Sk_Tail
+    100100: Sk_Tail_Tip
+    100102: SK_Toe_L
+    100104: SK_Toe_R
+    100106: Sk_Wrist_L
+    100108: Sk_Wrist_R
+    100110: //RootNode
+    400000: creep_rig_reference01:WorkerGeo:polySurface1
+    400002: CTRL_Chest
+    400004: CTRL_COG
+    400006: CTRL_Face
+    400008: CTRL_Foot_L
+    400010: CTRL_Foot_R
+    400012: CTRL_MASTER
+    400014: CTRL_Shoulder_L
+    400016: CTRL_Shoulder_R
+    400018: CTRL_Sword
+    400020: CTRL_Tail
+    400022: CTRL_Tail1
+    400024: CTRL_Wrist_L
+    400026: CTRL_Wrist_R
+    400028: ik_Arm_R
+    400030: ik_Chest
+    400032: ik_Foot_L
+    400034: ik_Foot_R
+    400036: ik_Plume
+    400038: ikH_Arm_L
+    400040: pv_Elbow_L
+    400042: pv_Elbow_R
+    400044: pv_Knee_L
+    400046: pv_Knee_R
+    400048: Sk_Ankle_L
+    400050: Sk_Ankle_R
+    400052: Sk_Chest
+    400054: Sk_COG
+    400056: Sk_Collarbone_L
+    400058: Sk_Collarbone_R
+    400060: Sk_Elbow_L
+    400062: Sk_Elbow_R
+    400064: Sk_Fingertip_L
+    400066: Sk_Fingertip_R
+    400068: Sk_Hip_L
+    400070: Sk_Hip_R
+    400072: Sk_Knee_L
+    400074: Sk_Knee_R
+    400076: Sk_Neck
+    400078: Sk_Plume_1
+    400080: Sk_Plume_2
+    400082: Sk_Plume_3
+    400084: Sk_Plume_4
+    400086: Sk_Plume_Tip
+    400088: Sk_Shoulder_L
+    400090: Sk_Shoulder_R
+    400092: SK_Shoulderpad_L
+    400094: SK_Shoulderpad_R
+    400096: Sk_Spine
+    400098: Sk_Tail
+    400100: Sk_Tail_Tip
+    400102: SK_Toe_L
+    400104: SK_Toe_R
+    400106: Sk_Wrist_L
+    400108: Sk_Wrist_R
+    400110: //RootNode
+    4300000: creep_rig_reference01:WorkerGeo:polySurface1
+    7400000: Worker_Idle
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: creep_rig_reference01:WorkerGeo:polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Worker_Idle
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: creep_rig_reference01:WorkerGeo:polySurface1
+        weight: 1
+      - path: CTRL_MASTER
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Chest
+        weight: 1
+      - path: CTRL_MASTER/CTRL_COG
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Face
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Foot_L
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Foot_R
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Shoulder_L
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Shoulder_R
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Tail
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Tail1
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Wrist_L
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Wrist_R
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Wrist_R/CTRL_Sword
+        weight: 1
+      - path: CTRL_MASTER/pv_Elbow_L
+        weight: 1
+      - path: CTRL_MASTER/pv_Elbow_R
+        weight: 1
+      - path: CTRL_MASTER/pv_Knee_L
+        weight: 1
+      - path: CTRL_MASTER/pv_Knee_R
+        weight: 1
+      - path: ik_Arm_R
+        weight: 1
+      - path: ik_Chest
+        weight: 1
+      - path: ik_Foot_L
+        weight: 1
+      - path: ik_Foot_R
+        weight: 1
+      - path: ik_Plume
+        weight: 1
+      - path: ikH_Arm_L
+        weight: 1
+      - path: Sk_COG
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L/Sk_Knee_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L/Sk_Knee_L/Sk_Ankle_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L/Sk_Knee_L/Sk_Ankle_L/SK_Toe_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R/Sk_Knee_R
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R/Sk_Knee_R/Sk_Ankle_R
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R/Sk_Knee_R/Sk_Ankle_R/SK_Toe_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/Sk_Elbow_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/Sk_Elbow_L/Sk_Wrist_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/Sk_Elbow_L/Sk_Wrist_L/Sk_Fingertip_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/SK_Shoulderpad_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/Sk_Elbow_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/Sk_Elbow_R/Sk_Wrist_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/Sk_Elbow_R/Sk_Wrist_R/Sk_Fingertip_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/SK_Shoulderpad_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2/Sk_Plume_3
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2/Sk_Plume_3/Sk_Plume_4
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2/Sk_Plume_3/Sk_Plume_4/Sk_Plume_Tip
+        weight: 1
+      - path: Sk_COG/Sk_Tail
+        weight: 1
+      - path: Sk_COG/Sk_Tail/Sk_Tail_Tip
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: creep_rig_reference01:WorkerGeo:polySurface1
+        weight: 1
+      - path: CTRL_MASTER
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Chest
+        weight: 1
+      - path: CTRL_MASTER/CTRL_COG
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Face
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Foot_L
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Foot_R
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Shoulder_L
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Shoulder_R
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Tail
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Tail1
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Wrist_L
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Wrist_R
+        weight: 1
+      - path: CTRL_MASTER/CTRL_Wrist_R/CTRL_Sword
+        weight: 1
+      - path: CTRL_MASTER/pv_Elbow_L
+        weight: 1
+      - path: CTRL_MASTER/pv_Elbow_R
+        weight: 1
+      - path: CTRL_MASTER/pv_Knee_L
+        weight: 1
+      - path: CTRL_MASTER/pv_Knee_R
+        weight: 1
+      - path: ik_Arm_R
+        weight: 1
+      - path: ik_Chest
+        weight: 1
+      - path: ik_Foot_L
+        weight: 1
+      - path: ik_Foot_R
+        weight: 1
+      - path: ik_Plume
+        weight: 1
+      - path: ikH_Arm_L
+        weight: 1
+      - path: Sk_COG
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L/Sk_Knee_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L/Sk_Knee_L/Sk_Ankle_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_L/Sk_Knee_L/Sk_Ankle_L/SK_Toe_L
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R/Sk_Knee_R
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R/Sk_Knee_R/Sk_Ankle_R
+        weight: 1
+      - path: Sk_COG/Sk_Hip_R/Sk_Knee_R/Sk_Ankle_R/SK_Toe_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/Sk_Elbow_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/Sk_Elbow_L/Sk_Wrist_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/Sk_Elbow_L/Sk_Wrist_L/Sk_Fingertip_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_L/Sk_Shoulder_L/SK_Shoulderpad_L
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/Sk_Elbow_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/Sk_Elbow_R/Sk_Wrist_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/Sk_Elbow_R/Sk_Wrist_R/Sk_Fingertip_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Collarbone_R/Sk_Shoulder_R/SK_Shoulderpad_R
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2/Sk_Plume_3
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2/Sk_Plume_3/Sk_Plume_4
+        weight: 1
+      - path: Sk_COG/Sk_Spine/Sk_Chest/Sk_Neck/Sk_Plume_1/Sk_Plume_2/Sk_Plume_3/Sk_Plume_4/Sk_Plume_Tip
+        weight: 1
+      - path: Sk_COG/Sk_Tail
+        weight: 1
+      - path: Sk_COG/Sk_Tail/Sk_Tail_Tip
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .174999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
